@@ -1,5 +1,12 @@
 /**
 
+SafePlasma is a protocol based on SafeMoon with less selling and liquidity fees.
+We think SafeMoon had an awesome idea but the fee structure was too high which is why SafePlasma was created.
+You can now enjoy trading under 7% slippage without losing a majority of your holdings upon selling.
+
+Website -> safeplasma.xyz
+Telegram -> t.me/safeplasma
+
  */
 
 pragma solidity ^0.6.12;
